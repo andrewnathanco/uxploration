@@ -1,0 +1,1 @@
+export const link = "cusor-pointer underline text-amber-600"
