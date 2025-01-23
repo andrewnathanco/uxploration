@@ -1,5 +1,3 @@
-import { createEffect, createSignal } from "solid-js"
-
 const glowSize = 100
 
 function moveGlow(event: MouseEvent) {
