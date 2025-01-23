@@ -1,0 +1,3 @@
+---
+inspiration: https://atproto.com/
+---
